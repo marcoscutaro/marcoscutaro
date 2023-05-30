@@ -22,7 +22,7 @@ const Languages = {
 ```
 ```js
 const WantedSkills = {
-  tools: [Next.js, Three.js, svelte.js],
+  tools: [Next.js, Three.js, Svelte.js],
 }
 ```
 
