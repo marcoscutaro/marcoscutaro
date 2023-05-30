@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marco Struggia</h1>
 <h3 align="center">Full stack developer and Designer from Amsterdam, The Netherlands</h3>
 
+<img src="https://res.cloudinary.com/dxzre2pcu/image/upload/v1685477489/home_marco_rofllo.jpg">
+
 <p>I have a degree in Graphic Design and I am currently learning how to be a full-stack developer. I am open to working as a front-end or back-end trainee (full-time). Are you a company or do you know someone that looks like the right fit for me? Feel free to send me a message!</p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/marcostruggia/**
